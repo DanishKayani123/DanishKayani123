@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DanishKayani123
+- 👀 I’m interested in Software development and Cybersecurity
+- 🌱 I’m currently learning Java, SQL, Python and Leetcode.
+- 💞️ I’m looking to collaborate on some private projects which will be public soon so keep an your eye's out.
+- 📫 How to reach me email me and i will get back to you when i can.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
